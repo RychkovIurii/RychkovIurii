@@ -46,8 +46,9 @@ Welcome to my GitHub profile! I’m a dedicated learner exploring the intersecti
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="Github logo" />
 </div>
 
+---
 
-## Projects
+## Projects  
 
 ### Software Development / Systems Programming
 
@@ -79,7 +80,7 @@ Welcome to my GitHub profile! I’m a dedicated learner exploring the intersecti
   A hobby project originally built as an info site for Central Asia. Currently evolving into an e-commerce platform with React and MongoDB.  
   *Tech stack: JavaScript, React, MongoDB, HTML,CSS*
 
-
+---
 
 ### Connect with Me  
 
