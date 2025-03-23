@@ -46,6 +46,7 @@ Welcome to my GitHub profile! I’m a dedicated learner exploring the intersecti
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="Github logo" />
 </div>
 
+
 ## Projects
 
 ### Software Development / Systems Programming
@@ -72,11 +73,11 @@ Welcome to my GitHub profile! I’m a dedicated learner exploring the intersecti
 
 - [**Boardgamecafe**](https://github.com/irychkov/boardgamecafe)  
   Full-stack café platform with table reservations, event listings, Stripe payments, and an admin panel. Planned deployment on Render.  
-  *Tech stack: React, Node.js, Express, MongoDB, Stripe*
+  *Tech stack: React, Node.js, Express, MongoDB, Stripe, HTML,CSS, Tailwind CSS*
 
 - [**Visit_Central_Asia**](https://github.com/irychkov/Visit_Central_Asia)  
   A hobby project originally built as an info site for Central Asia. Currently evolving into an e-commerce platform with React and MongoDB.  
-  *Tech stack: JavaScript, React, MongoDB*
+  *Tech stack: JavaScript, React, MongoDB, HTML,CSS*
 
 
 
