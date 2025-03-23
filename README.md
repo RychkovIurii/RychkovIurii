@@ -52,19 +52,19 @@ Welcome to my GitHub profile! I’m a dedicated learner exploring the intersecti
 
 ### Software Development / Systems Programming
 
-- [**miniRT**](https://github.com/irychkov/miniRT)  
+- [**miniRT**](https://github.com/RychkovIurii/miniRayTracer)  
   A minimalist ray tracer written in C using MLX42. Built to render 3D graphics efficiently with a strong focus on single-threaded optimization.  
   *Tech stack: C, MLX42, KCachegrind*
 
-- [**minishell**](https://github.com/irychkov/minishell)  
+- [**minishell**](https://github.com/RychkovIurii/minishell)  
   A Unix-like shell that handles parsing, redirections, pipes, signals, and built-in commands.  
   *Tech stack: C, GDB, Valgrind*
 
-- [**Philosophers**](https://github.com/irychkov/Philosophers)  
+- [**Philosophers**](https://github.com/RychkovIurii/Philosophers)  
   A concurrency project solving the Dining Philosophers problem using threads and semaphores. Focused on synchronization and deadlock avoidance.  
   *Tech stack: C, GDB, Valgrind*
 
-- [**42cursusLibft**](https://github.com/irychkov/42cursusLibft)  
+- [**42cursusLibft**](https://github.com/RychkovIurii/42cursusLibft)  
   Custom implementation of selected libc functions, including memory management, string operations, and linked list utilities.  
   *Tech stack: C, GDB, Valgrind*
 
@@ -72,11 +72,11 @@ Welcome to my GitHub profile! I’m a dedicated learner exploring the intersecti
 
 ### Web Development
 
-- [**Boardgamecafe**](https://github.com/irychkov/boardgamecafe)  
+- [**Boardgamecafe**](https://github.com/RychkovIurii/boardgamecafe)  
   Full-stack café platform with table reservations, event listings, Stripe payments, and an admin panel. Planned deployment on Render.  
   *Tech stack: React, Node.js, Express, MongoDB, Stripe, HTML,CSS, Tailwind CSS*
 
-- [**Visit_Central_Asia**](https://github.com/irychkov/Visit_Central_Asia)  
+- [**Visit_Central_Asia**](https://github.com/RychkovIurii/Visit_Central_Asia)  
   A hobby project originally built as an info site for Central Asia. Currently evolving into an e-commerce platform with React and MongoDB.  
   *Tech stack: JavaScript, React, MongoDB, HTML,CSS*
 
