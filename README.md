@@ -74,8 +74,8 @@ Welcome to my GitHub profile! I’m a dedicated learner exploring the intersecti
 
 - [**Boardgamecafe**](https://github.com/RychkovIurii/boardgamecafe)
  [🔗 Live Demo](https://cafeboardgame.onrender.com) (https://cafeboardgame.onrender.com)  
-  Full-stack café platform with table reservations, event listings, Stripe payments, and an admin panel. Planned responsive UI.  
-  *Tech stack: React, Node.js, Express, MongoDB, Stripe, HTML,CSS, Tailwind CSS*
+  A full-stack web platform for a real-life café offering table and board game reservations, event listings, and a Stripe-powered checkout. Includes multilingual support, working hours logic, and a full admin panel for managing tables, prices, and events.  
+  *Tech stack: React, Node.js, Express, MongoDB, Mongoose, Stripe, JWT, HTML, CSS, Tailwind CSS, MUI, SweetAlert2, Day.js, libphonenumber-js, express-validator, Moment-Timezone, Nodemailer, bcryptjs*
 
 - [**Visit_Central_Asia**](https://github.com/RychkovIurii/Visit_Central_Asia)  
   A hobby project originally built as an info site for Central Asia. Currently evolving into an e-commerce platform with React and MongoDB.  
