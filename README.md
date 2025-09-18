@@ -4,7 +4,12 @@
 
 Welcome to my GitHub profile! I’m a dedicated learner exploring the intersections of programming, data analysis, and software development.
 
-*Latest joke: I scored 5.0/5.0 at Varia, yet my espresso machine still returns `HTTP 418: I'm a teapot` when I ask for coffee.*
+My current Github commit ranking in Finland according to [committers.top](https://committers.top/finland) is:
+
+[![committers.top badge](https://user-badge.committers.top/finland/RychkovIurii.svg)](https://user-badge.committers.top/finland/RychkovIurii)
+
+*Latest joke:  
+I scored 5.0/5.0 at Varia, yet my espresso machine still returns `HTTP 418: I'm a teapot` when I ask for coffee.*
 
 ---
 
@@ -55,7 +60,7 @@ Welcome to my GitHub profile! I’m a dedicated learner exploring the intersecti
 
 - [**webserv**](https://github.com/RychkovIurii/webserv_42)  
   Lightweight HTTP/1.1 server in modern C++20 built for the Hive/42 specification. Ships a poll-based event loop, CGI execution sandbox, and Nginx-style configuration parser. CI tracks build/docs/license badges and enforces clang-tidy, clang-format, and editorconfig with docs deployed via GitHub Pages.  
-  *Tech stack: C++, GDB, Valgrind, Python, pytest, Nginx, ApacheBench, Siege, Docker, GitHub Actions, Docker Compose*  
+  *Tech stack: C++, GDB, Valgrind, Python, pytest, Nginx, ApacheBench, Siege, Docker, GitHub Actions*  
   *Highlights: RFC 7230–7235 compliance, keep-alive connection reuse, automated tooling pipeline*
 
 - [**CPP Modules**](https://github.com/RychkovIurii/CPP)  
