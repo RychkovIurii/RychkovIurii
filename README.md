@@ -4,9 +4,11 @@
 
 Welcome to my GitHub profile! I’m a dedicated learner exploring the intersections of programming, data analysis, and software development.
 
-My current Github commit ranking in Finland according to [committers.top](https://committers.top/finland) is:
+My current GitHub commit rankings in Finland, according to [committers.top](https://committers.top/finland):
 
-[![committers.top badge](https://user-badge.committers.top/finland/RychkovIurii.svg)](https://user-badge.committers.top/finland/RychkovIurii)
+[![committers.top badge](https://user-badge.committers.top/finland/RychkovIurii.svg)](https://user-badge.committers.top/finland/RychkovIurii)  
+[![committers.top badge](https://user-badge.committers.top/finland_public/RychkovIurii.svg)](https://user-badge.committers.top/finland_public/RychkovIurii)  
+[![committers.top badge](https://user-badge.committers.top/finland_private/RychkovIurii.svg)](https://user-badge.committers.top/finland_private/RychkovIurii)  
 
 *Latest joke:  
 I scored 5.0/5.0 at Varia, yet my espresso machine still returns `HTTP 418: I'm a teapot` when I ask for coffee.*
@@ -28,8 +30,10 @@ I scored 5.0/5.0 at Varia, yet my espresso machine still returns `HTTP 418: I'm 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="48" alt="nginx logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="48" alt="fastify logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="48" alt="express.js logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" alt="next.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="48" alt="Redis logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48" alt="PHP logo" />
@@ -37,6 +41,7 @@ I scored 5.0/5.0 at Varia, yet my espresso machine still returns `HTTP 418: I'm 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="48" alt="tailwindcss logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="48" alt="Postman logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="48" alt="Jest logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-plain.svg" height="48" alt="vitest logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="48" alt="Pytest logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="48" alt="R logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="48" alt="RStudio logo" />
@@ -45,7 +50,10 @@ I scored 5.0/5.0 at Varia, yet my espresso machine still returns `HTTP 418: I'm 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="mongodb logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="48" alt="mongoose logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="48" alt="sequelize logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="48" alt="SQLite logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="48" alt="ansible logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="Github logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="48" alt="githubactions logo" />
@@ -54,11 +62,15 @@ I scored 5.0/5.0 at Varia, yet my espresso machine still returns `HTTP 418: I'm 
 
 ---
 
+**Other:** 2FA, JWT, Keycloak, Strapi, WebSocket, GDPR, Infrastructure, Web Scrapers, AI integration (local & cloud), VPS, VPN, Hetzner  
 ## Projects  
 
 ### Software Development / Systems Programming
 
 - [**webserv**](https://github.com/RychkovIurii/webserv_42)  
+[![Build](https://github.com/to0nsa/webserv/actions/workflows/build.yml/badge.svg)](https://github.com/to0nsa/webserv/actions/workflows/build.yml)
+[![Test](https://github.com/to0nsa/webserv/actions/workflows/test.yml/badge.svg)](https://github.com/to0nsa/webserv/actions/workflows/test.yml)
+[![Docs](https://github.com/to0nsa/webserv/actions/workflows/docs.yml/badge.svg)](https://github.com/to0nsa/webserv/actions/workflows/docs.yml)  
   Lightweight HTTP/1.1 server in modern C++20 built for the Hive/42 specification. Ships a poll-based event loop, CGI execution sandbox, and Nginx-style configuration parser. CI tracks build/docs/license badges and enforces clang-tidy, clang-format, and editorconfig with docs deployed via GitHub Pages.  
   *Tech stack: C++, GDB, Valgrind, Python, pytest, Nginx, ApacheBench, Siege, Docker, GitHub Actions*  
   *Highlights: RFC 7230–7235 compliance, keep-alive connection reuse, automated tooling pipeline*
@@ -95,12 +107,24 @@ I scored 5.0/5.0 at Varia, yet my espresso machine still returns `HTTP 418: I'm 
 
 - **DevOps footprint**  Continuous integration, container orchestration, and automated testing pipelines are also embedded in [webserv](https://github.com/RychkovIurii/webserv_42) and [Boardgamecafe](https://github.com/RychkovIurii/boardgamecafe), leveraging Docker, Docker Compose, GitHub Actions, Dependabot, Jest, and load-testing suites.
 
+
+- **Automation & Cloud Operations**  
+Experienced in using Ansible for deployment automation and configuration management across multiple environments.
+Deployed and maintained VPN infrastructures using WireGuard, OpenVPN, and X-Ray (VLESS Reality).
+Active user of Oracle Cloud VPS and Hetzner Cloud, focusing on secure, efficient, and reproducible server setups.
+
+- **Lead Intelligence Platform (private project)**  
+Developed an automated lead generation and scoring system for M&A professionals targeting Nordic SMEs.
+The platform discovers businesses for sale, enriches company data from public registries, scores leads, and provides valuation estimates.
+Highlights: data automation, enrichment pipelines, and business intelligence integration.
 ---
 
 ### Web Development
 
 - [**Boardgamecafe**](https://github.com/RychkovIurii/boardgamecafe)
  [🔗 Live Demo](https://cafeboardgame.onrender.com) (https://cafeboardgame.onrender.com)  
+[![Backend CI](https://github.com/RychkovIurii/boardgamecafe/actions/workflows/BackendCI.yml/badge.svg?branch=main)](https://github.com/RychkovIurii/boardgamecafe/actions/workflows/BackendCI.yml)
+[![Frontend CI](https://github.com/RychkovIurii/boardgamecafe/actions/workflows/FrontendCI.yml/badge.svg?branch=main)](https://github.com/RychkovIurii/boardgamecafe/actions/workflows/FrontendCI.yml)  
   A full-stack web platform for a real-life café offering table and board game reservations, event listings, and a Stripe-powered checkout. Includes multilingual support, working hours logic, and a full admin panel for managing tables, prices, and events.  
   *Tech stack: React, Node.js, Express, MongoDB, Mongoose, Stripe, JWT, HTML, CSS, Tailwind CSS, MUI, SweetAlert2, Day.js, libphonenumber-js, express-validator, Moment-Timezone, Nodemailer, bcryptjs, Docker, Docker Compose, GitHub Actions, Dependabot, Jest*
 
