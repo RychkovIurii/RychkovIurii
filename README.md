@@ -15,7 +15,7 @@ I scored 5.0/5.0 at Varia, yet my espresso machine still returns `HTTP 418: I'm 
 
 ---
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="C logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="Cplusplus logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48" alt="Csharp logo" />
@@ -58,7 +58,7 @@ I scored 5.0/5.0 at Varia, yet my espresso machine still returns `HTTP 418: I'm 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="Github logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="48" alt="githubactions logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code logo" />
-</div>
+</p>
 
 ---
 
