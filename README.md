@@ -16,18 +16,18 @@ I scored 5.0/5.0 at Varia, yet my espresso machine still returns `HTTP 418: I'm 
 ---
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,bash,powershell,linux&perline=9" alt="Core languages and shells" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,bash,powershell,r,linux&perline=10" alt="Core languages and shells" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,nginx,nodejs,react,express,nextjs,redis,html,css,php,wordpress,tailwind,postman,jest,vitest,r,mysql,postgres,mongodb,sequelize,sqlite,docker,ansible,git,github,githubactions,vscode&perline=9" alt="Frameworks, databases, and tooling" />
+    <img src="https://skillicons.dev/icons?i=vim,nginx,nodejs,pnpm,react,vite,express,nextjs,html,css,php,wordpress,tailwind,postman,jest,vitest,mysql,postgres,mongodb,sequelize,sqlite,redis,prometheus,cloudflare,docker,ansible,git,github,githubactions,vscode&perline=10" alt="Frameworks, databases, and tooling" />
   </a>
 </p>
 
 ---
 
-**Other:** GCC, Fastify, Pytest, RStudio, Mongoose, 2FA, JWT, Keycloak, Strapi, WebSocket, GDPR, Infrastructure, Web Scrapers, AI integration (local & cloud), VPS, VPN, Hetzner, Orcale    
+**Other:** GCC, Fastify, Pytest, RStudio, Mongoose, 2FA, JWT, Keycloak, Strapi, WebSocket, GDPR, Infrastructure, Web Scrapers, AI integration (local & cloud), VPS, VPN, Hetzner, Oracle    
 ## Projects  
 
 ### Software Development / Systems Programming
@@ -70,13 +70,13 @@ I scored 5.0/5.0 at Varia, yet my espresso machine still returns `HTTP 418: I'm 
   *Tech stack: Docker, Docker Compose, Makefile, MySQL, WordPress, PHP*  
   *Highlights: Infrastructure as code, container hardening, reproducible environment bootstrap*
 
-- **DevOps footprint**  Continuous integration, container orchestration, and automated testing pipelines are also embedded in [webserv](https://github.com/RychkovIurii/webserv_42) and [Boardgamecafe](https://github.com/RychkovIurii/boardgamecafe), leveraging Docker, Docker Compose, GitHub Actions, Dependabot, Jest, and load-testing suites.
+- **DevOps footprint**  Continuous integration, container orchestration, and automated testing pipelines are also embedded in [webserv](https://github.com/RychkovIurii/webserv_42), [Arcade Transcendence](https://github.com/RychkovIurii/Arcade-Transcendenc) and [Boardgamecafe](https://github.com/RychkovIurii/boardgamecafe), leveraging Docker, Docker Compose, Prometheus, GitHub Actions, Dependabot, Jest, Vitest and load-testing suites.
 
 
 - **Automation & Cloud Operations**  
 Experienced in using Ansible for deployment automation and configuration management across multiple environments.
 Deployed and maintained VPN infrastructures using WireGuard, OpenVPN, and X-Ray (VLESS Reality).
-Active user of Oracle Cloud VPS and Hetzner Cloud, focusing on secure, efficient, and reproducible server setups.
+Active user of Cloudflare, Oracle Cloud and Hetzner Cloud, focusing on secure, efficient, and reproducible server setups.
 
 - **Lead Intelligence Platform (private project)**  
 Developed an automated lead generation and scoring system for M&A professionals targeting Nordic SMEs.
@@ -85,6 +85,18 @@ Highlights: data automation, enrichment pipelines, and business intelligence int
 ---
 
 ### Web Development
+
+- [**Arcade Transcendence**](https://github.com/juusokasperi/ft_transcendence)
+ [🔗 Live Demo](https://irychkov.com)(https://irychkov.com)  
+[![Backend CI](https://github.com/juusokasperi/ft_transcendence/actions/workflows/BackendCI.yml/badge.svg)](https://github.com/juusokasperi/ft_transcendence/actions/workflows/BackendCI.yml)
+[![Frontend CI](https://github.com/juusokasperi/ft_transcendence/actions/workflows/FrontendCI.yml/badge.svg)](https://github.com/juusokasperi/ft_transcendence/actions/workflows/FrontendCI.yml)
+[![Makefile CI](https://github.com/juusokasperi/ft_transcendence/actions/workflows/MakefileCI.yml/badge.svg)](httpsgithub.com/juusokasperi/ft_transcendence/actions/workflows/MakefileCI.yml)
+[![Prod Build CI](https://github.com/juusokasperi/ft_transcendence/actions/workflows/ProdBuildCI.yml/badge.svg)](https://github.com/juusokasperi/ft_transcendence/actions/workflows/ProdBuildCI.yml)
+[![Syntax Check](https://github.com/juusokasperi/ft_transcendence/actions/workflows/SyntaxCheck.yml/badge.svg)](https://github.com/juusokasperi/ft_transcendence/actions/workflows/SyntaxCheck.yml)
+
+  A distributed, microservices-based gaming platform featuring a fully playable 3D Pong game, real-time matchmaking, tournaments, live chat, user presence tracking, and a full DevOps stack supporting scalable, production-ready infrastructure.
+
+  *Tech stack: React, Vite, TypeScript, TailwindCSS, Babylon.js, Node.js, Fastify, SQLite, Redis, WebSockets, Docker, Docker Compose, Nginx, PNPM (monorepo), GitHub Actions, Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Vitest, Prettier, Oracle Cloud, Cloudflare*
 
 - [**Boardgamecafe**](https://github.com/RychkovIurii/boardgamecafe)
  [🔗 Live Demo](https://cafeboardgame.onrender.com) (https://cafeboardgame.onrender.com)  
