@@ -70,7 +70,7 @@ I scored 5.0/5.0 at Varia, yet my espresso machine still returns `HTTP 418: I'm 
   *Tech stack: Docker, Docker Compose, Makefile, MySQL, WordPress, PHP*  
   *Highlights: Infrastructure as code, container hardening, reproducible environment bootstrap*
 
-- **DevOps footprint**  Continuous integration, container orchestration, and automated testing pipelines are also embedded in [webserv](https://github.com/RychkovIurii/webserv_42), [Arcade Transcendence](https://github.com/RychkovIurii/Arcade-Transcendenc) and [Boardgamecafe](https://github.com/RychkovIurii/boardgamecafe), leveraging Docker, Docker Compose, Prometheus, GitHub Actions, Dependabot, Jest, Vitest and load-testing suites.
+- **DevOps footprint**  Continuous integration, container orchestration, and automated testing pipelines are also embedded in [webserv](https://github.com/RychkovIurii/webserv_42), [Arcade Transcendence](https://github.com/RychkovIurii/Arcade-Transcendence) and [Boardgamecafe](https://github.com/RychkovIurii/boardgamecafe), leveraging Docker, Docker Compose, Prometheus, GitHub Actions, Dependabot, Jest, Vitest and load-testing suites.
 
 
 - **Automation & Cloud Operations**  
@@ -86,7 +86,7 @@ Highlights: data automation, enrichment pipelines, and business intelligence int
 
 ### Web Development
 
-- [**Arcade Transcendence**](https://github.com/juusokasperi/ft_transcendence)
+- [**Arcade Transcendence**](https://github.com/RychkovIurii/Arcade-Transcendence)
  [🔗 Live Demo](https://irychkov.com)(https://irychkov.com)  
 [![Backend CI](https://github.com/juusokasperi/ft_transcendence/actions/workflows/BackendCI.yml/badge.svg)](https://github.com/juusokasperi/ft_transcendence/actions/workflows/BackendCI.yml)
 [![Frontend CI](https://github.com/juusokasperi/ft_transcendence/actions/workflows/FrontendCI.yml/badge.svg)](https://github.com/juusokasperi/ft_transcendence/actions/workflows/FrontendCI.yml)
