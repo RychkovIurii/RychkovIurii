@@ -21,7 +21,7 @@ I scored 5.0/5.0 at Varia, yet my espresso machine still returns `HTTP 418: I'm 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,nginx,nodejs,pnpm,react,vite,express,nextjs,html,css,php,wordpress,tailwind,postman,jest,vitest,mysql,postgres,mongodb,sequelize,sqlite,redis,prometheus,cloudflare,docker,ansible,git,github,githubactions,vscode&perline=10" alt="Frameworks, databases, and tooling" />
+    <img src="https://skillicons.dev/icons?i=vim,nginx,nodejs,pnpm,react,vite,express,nextjs,html,css,php,wordpress,tailwind,postman,jest,vitest,mysql,postgres,mongodb,sequelize,sqlite,redis,prometheus,cloudflare,gcp,aws,docker,ansible,git,github,githubactions,vscode&perline=10" alt="Frameworks, databases, and tooling" />
   </a>
 </p>
 
@@ -76,7 +76,7 @@ I scored 5.0/5.0 at Varia, yet my espresso machine still returns `HTTP 418: I'm 
 - **Automation & Cloud Operations**  
 Experienced in using Ansible for deployment automation and configuration management across multiple environments.
 Deployed and maintained VPN infrastructures using WireGuard, OpenVPN, and X-Ray (VLESS Reality).
-Active user of Cloudflare, Oracle Cloud and Hetzner Cloud, focusing on secure, efficient, and reproducible server setups.
+Active user of AWS, Cloudflare, OVH, Oracle Cloud and Hetzner Cloud, focusing on secure, efficient, and reproducible setups. Familiar with GCP services.
 
 - **Lead Intelligence Platform (private project)**  
 Developed an automated lead generation and scoring system for M&A professionals targeting Nordic SMEs.
