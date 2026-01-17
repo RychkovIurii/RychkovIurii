@@ -1,6 +1,7 @@
 ### Hi there!
 
-#### Varia Vantaa graduate. Hive Helsinki student (École 42 curriculum).
+#### Software Engineer | DevOps Engineer | Backend Engineer | Former Oil Lubricant Specialist | Varia Vantaa Alumni | Hive Helsinki Alumni | 42 Alumni
+
 
 Welcome to my GitHub profile! I’m a dedicated learner exploring the intersections of programming, data analysis, and software development.
 
