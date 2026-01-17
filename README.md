@@ -1,6 +1,6 @@
 ### Hi there!
 
-#### Software Engineer | DevOps Engineer | Backend Engineer | Full stack developer
+#### Software Engineer | DevOps Engineer | Backend Engineer | Full stack Developer
 #### Former Oil Lubricant Specialist | Varia Vantaa Alumni | Hive Helsinki Alumni | 42 Alumni
 
 
@@ -107,7 +107,7 @@ Highlights: data automation, enrichment pipelines, and business intelligence int
   A full-stack web platform for a real-life café offering table and board game reservations, event listings, and a Stripe-powered checkout. Includes multilingual support, working hours logic, and a full admin panel for managing tables, prices, and events.  
   *Tech stack: React, Node.js, Express, MongoDB, Mongoose, Stripe, JWT, HTML, CSS, Tailwind CSS, MUI, SweetAlert2, Day.js, libphonenumber-js, express-validator, Moment-Timezone, Nodemailer, bcryptjs, Docker, Docker Compose, GitHub Actions, Dependabot, Jest*
 
-- [**CloudComputing.fi**](https://cloudcomputing.fi)  
+- [**CloudComputing.fi**](https://cloudcomputing.fi)
  [🔗 Live Demo](https://cloudcomputing.fi) (https://cloudcomputing.fi)  
   A business website built and maintained with a focus on SEO, localization, and CRM integrations using self-written plugins.  
   *Tech stack: SiteGround, Cloudflare, WordPress, PHP, Polylang, Rank Math, Site Kit by Google, Complianz GDPR, custom CRM plugins*
